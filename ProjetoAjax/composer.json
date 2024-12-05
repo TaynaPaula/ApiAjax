@@ -1,0 +1,15 @@
+{
+    "name": "tayna/projetoajax",
+    "autoload": {
+        "psr-4": {
+            "Tayna\\Projetoajax\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tayna paula",
+            "email": "taynapaulacruz@gmail.com"
+        }
+    ],
+    "require": {}
+}
